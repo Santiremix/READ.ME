@@ -12,6 +12,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santiremix&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santiremix&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiremix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
