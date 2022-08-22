@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago!</h1>
-<h3 align="center">A passionate Full-Stack Developer student from Spain.</h3>
+<h3 align="center">A passionate Full-Stack Developer from Spain.</h3>
 
 - 🔭 I’m currently delving into **Three.js & Angular**
 
